@@ -3,7 +3,7 @@
 // be inserted, updated and deleted. The example uses
 // transactions to ensure that the operations complete
 // successfully.
-
+//John 24/11/2016 14:04
 package com.company;
 
 // Java core packages
